@@ -2,14 +2,13 @@ import React from 'react';
 
 export default function Header(){
 
-
     return(
         <section>
-    <header>This is a header
+    <header className="header">Hot or Cold
         <nav>
-            <ul>
-                <li>Link 1</li>
-                <li>Link 2</li>
+            <ul className="nav-bar">
+                <li><a href=''>How to play</a></li>
+                <li><a href=''>New Game</a></li>
             </ul>
         </nav>
          </header>
