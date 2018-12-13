@@ -1,0 +1,7 @@
+.guess-item{
+    display:inline;
+    margin-left: 10px;
+}
+.guess-history{
+    margin-left: -40px;
+}
